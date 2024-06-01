@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-code&label=Profile%20views&color=0e75b6&style=flat" alt="paras-code" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react native, javascript**
+- 💬 Ask me about **Machine learning, Deep learning**
 
 - 📫 How to reach me **parassaini247554@gmail.com**
 
